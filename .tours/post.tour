@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "post",
+  "steps": [
+    {
+      "file": "routes/index.js",
+      "description": "post method locally\r\n",
+      "line": 12
+    }
+  ]
+}

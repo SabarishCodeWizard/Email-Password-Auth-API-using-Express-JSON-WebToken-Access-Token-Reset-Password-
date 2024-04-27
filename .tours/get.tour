@@ -1,0 +1,11 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "get",
+  "steps": [
+    {
+      "file": "routes/index.js",
+      "description": "get request method",
+      "line": 7
+    }
+  ]
+}
