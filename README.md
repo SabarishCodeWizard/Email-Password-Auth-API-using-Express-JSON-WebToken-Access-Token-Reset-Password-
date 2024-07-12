@@ -21,13 +21,13 @@ This project implements a RESTful API for user authentication using email and pa
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    https://github.com/SabarishCodeWizard/Email-Password-Auth-API-using-Express-JSON-WebToken-Access-Token-Reset-Password-.git
     ```
 
 2. Install dependencies:
 
     ```bash
-    cd <project-folder>
+   
     npm install
     ```
 
