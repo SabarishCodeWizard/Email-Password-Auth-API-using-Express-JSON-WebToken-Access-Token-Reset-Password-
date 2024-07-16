@@ -1,6 +1,4 @@
-Sure, here's a template for your project's README.md file:
 
----
 
 # Email Password Auth API using Express JSON WebToken
 
@@ -71,6 +69,4 @@ This project implements a RESTful API for user authentication using email and pa
 
 This project is licensed under the [MIT License](LICENSE).
 
----
 
-You can customize this template further based on your specific project details and requirements. Don't forget to include any additional instructions or details that might be relevant to users setting up and using your project.
