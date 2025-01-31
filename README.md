@@ -65,8 +65,6 @@ This project implements a RESTful API for user authentication using email and pa
 - JSON Web Token (JWT)
 - Nodemailer
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 
